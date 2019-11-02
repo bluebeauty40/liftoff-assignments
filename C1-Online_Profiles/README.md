@@ -7,7 +7,8 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+Provide a link to your GitHub account here.https://github.com/shaneen-lasley/liftoff-assignments.git
+
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
